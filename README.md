@@ -87,3 +87,8 @@ Visit our official website for full details and pricing:
 ---
 
 Empire IL – Powering Israel’s Cloud Infrastructure.
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Enterprise-blue)
+![Location](https://img.shields.io/badge/Location-Israel-blue)
+![Anti-DDoS](https://img.shields.io/badge/Protection-Advanced-green)
+![Network](https://img.shields.io/badge/Network-10Gbps-orange)
+![Uptime](https://img.shields.io/badge/Uptime-99.99%25-success)
